@@ -1,0 +1,23 @@
+{
+    "update_id": 448256651,
+    "message": {
+        "message_id": 10,
+        "from": {
+            "id": 1323239382,
+            "is_bot": false,
+            "first_name": "Ariel Adonai",
+            "last_name": "Souza",
+            "username": "arielrenostro",
+            "language_code": "en"
+        },
+        "chat": {
+            "id": 1323239382,
+            "first_name": "Ariel Adonai",
+            "last_name": "Souza",
+            "username": "arielrenostro",
+            "type": "private"
+        },
+        "date": 1740534400,
+        "text": "teste"
+    }
+}
